@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 82E5-700F
+
+ Directory of C:\Users\kiran.nawaz\Desktop\MyProject1
+
+11/04/2021  10:16 AM    <DIR>          .
+11/04/2021  10:16 AM    <DIR>          ..
+11/04/2021  10:16 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  112,173,047,808 bytes free
